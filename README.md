@@ -1,0 +1,2 @@
+# okx
+trying tea testnet
